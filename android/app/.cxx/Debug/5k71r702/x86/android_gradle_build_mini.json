@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\Users\\navee\\dev\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Android\\android-sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\navee\\Desktop\\StoreAuditApp-newV-10-04-2025\\StoreAuditApp-main\\android\\app\\.cxx\\Debug\\5k71r702\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Android\\android-sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\navee\\Desktop\\StoreAuditApp-newV-10-04-2025\\StoreAuditApp-main\\android\\app\\.cxx\\Debug\\5k71r702\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

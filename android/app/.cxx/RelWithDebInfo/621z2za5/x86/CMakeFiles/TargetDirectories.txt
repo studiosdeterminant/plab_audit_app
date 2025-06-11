@@ -1,0 +1,2 @@
+/home/anand/Downloads/StoreAuditApp-main/android/app/.cxx/RelWithDebInfo/621z2za5/x86/CMakeFiles/edit_cache.dir
+/home/anand/Downloads/StoreAuditApp-main/android/app/.cxx/RelWithDebInfo/621z2za5/x86/CMakeFiles/rebuild_cache.dir

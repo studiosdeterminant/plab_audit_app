@@ -1,0 +1,2 @@
+C:/Users/navee/Desktop/StoreAuditApp-newV-10-04-2025/StoreAuditApp-main/android/app/.cxx/RelWithDebInfo/5x3p4o3q/x86/CMakeFiles/edit_cache.dir
+C:/Users/navee/Desktop/StoreAuditApp-newV-10-04-2025/StoreAuditApp-main/android/app/.cxx/RelWithDebInfo/5x3p4o3q/x86/CMakeFiles/rebuild_cache.dir

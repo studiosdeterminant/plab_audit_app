@@ -1,0 +1,1 @@
+/home/anand/Downloads/StoreAuditApp-main/build/app/intermediates/cxx/RelWithDebInfo/621z2za5/obj/x86

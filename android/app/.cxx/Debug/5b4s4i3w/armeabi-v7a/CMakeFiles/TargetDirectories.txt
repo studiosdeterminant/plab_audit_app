@@ -1,0 +1,2 @@
+/home/anand/Downloads/StoreAuditApp-main/android/app/.cxx/Debug/5b4s4i3w/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/anand/Downloads/StoreAuditApp-main/android/app/.cxx/Debug/5b4s4i3w/armeabi-v7a/CMakeFiles/rebuild_cache.dir
